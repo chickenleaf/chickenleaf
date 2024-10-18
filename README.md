@@ -65,7 +65,7 @@ My other joys include: cats, classic lit, jazz, films, Rubik's cubes, gardening,
 
 </div>
 
-## gitHub stats
+## github stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chickenleaf&layout=compact&theme=transparent" alt="GitHub Stats"/>
