@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611npj6h2cnk3lo8hrxcxzu3mle88uoay5j8fmd0vxy&ep=v1_gifs_search&rid=giphy.gif&ct=g"   width="500"/>
 </div>
 
-exploring all things Python and C++. <br>
-my other joys include: cats, classic lit, jazz, films, Rubik's cubes, gardening, and birdwatching.
+Exploring all things Python and C++. <br>
+My other joys include: cats, classic lit, jazz, films, Rubik's cubes, gardening, and birdwatching.
 
 
 ## i love
