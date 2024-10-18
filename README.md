@@ -65,10 +65,15 @@ My other joys include: cats, classic lit, jazz, films, Rubik's cubes, gardening,
 
 </div>
 
-## GitHub Stats
+## gitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chickenleaf&layout=compact&theme=transparent" alt="GitHub Stats"/>
+</div>
+
+## contributions
+<div align="center">
+  <img src="https://github.com/chickenleaf/chickenleaf/blob/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </div>
 
 
