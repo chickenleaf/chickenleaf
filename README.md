@@ -3,7 +3,6 @@
 </div>
 
 Exploring all things Rust, Python and C++. <br>
-My other joys include: cats, classic lit, jazz, films, Rubik's cubes, gardening, and birdwatching.
 
 
 ## i love
